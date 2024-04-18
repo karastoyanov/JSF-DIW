@@ -1,5 +1,5 @@
 
-## JavaScript Fundamentals 1 DIW 
+## JavaScript Fundamentals (JSF) - Part 1 
 
 
 ### :arrow_right: Branch Names:
