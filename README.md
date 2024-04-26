@@ -13,7 +13,7 @@ For every exercise create new branch with the following name:
 
 ### :arrow_right: Tasks Names:
 
-For every exercise create your JS files inside the specified directory **Exercise{`nn`}** with the following convention:
+For every exercise create your JS files inside the specified directory **Exercise{`nn`}/FirstName-LastName/** with the following convention:
 
 * **Exercise01/FirstName-LastName/taskName.js**
 
