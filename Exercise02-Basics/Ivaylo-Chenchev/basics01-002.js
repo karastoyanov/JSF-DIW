@@ -5,7 +5,7 @@ BASICS01-002: Imagine, you are solving a math problem. Declare ten variables, wh
 */
 
 // the math problem to solve: 
-//     Given coordinates of a trapecoid in rectangular coordinate system (Rene Decartes)
+//     Given coordinates of a trapezoid in rectangular coordinate system (Rene Decartes)
 //     Calculate the area.
 
 let pointA_X;
