@@ -1,0 +1,10 @@
+let instanseSize = "m7g.metal";
+let vCPU = 5;
+let Memory = 64; 
+let instanceStorage = "EBS-Only";
+let instanceName = "EC2 instance";
+let instanceType = "Compute Optimized";
+let osType = "Linux"; 
+let region = "US";
+let availabilityZone = "Oregon";
+let VPC = "ADM-Delivery";
