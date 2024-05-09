@@ -1,0 +1,10 @@
+let firstName;
+let lastName;
+let shoeSize;
+let shirtColour;
+let currentLocation;
+let currentState;
+let summerTyreMake;
+let winterTyreMake;
+let teamName;
+let teamMainSponsor;
