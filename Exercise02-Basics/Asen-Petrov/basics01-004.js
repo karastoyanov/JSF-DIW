@@ -1,3 +1,8 @@
+
+// try to solve it without array and without for loop
+// use only the things from Lesson 03
+
+/*
 let chars = ['a', 'b', 'c', 'd', 'f'];
 for (let index = 0; index < chars.length; index++) {
     console.log(chars[index])
@@ -15,3 +20,4 @@ for (let index = 0; index < chars.length; index++) {
     console.log(punctCharArr[index])
     
 }
+*/
