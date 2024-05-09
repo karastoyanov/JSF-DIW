@@ -11,4 +11,4 @@ let var8 = 8;
 let var9 = 9;
 let var10 = 10;
 
-console.log("The first three odd numbers from 1 to 10 are: " +var1+";" +var3+";" +var5);
+console.log("The first three odd numbers from 1 to 10 are: " +var1+"; " +var3+"; " +var5+";");

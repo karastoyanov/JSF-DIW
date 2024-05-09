@@ -11,4 +11,4 @@ let var8 = 8;
 let var9 = 9;
 let var10 = 10;
 
-console.log("The even numbers from var1 to var10 are: " +var2,var4,var6,var8,var10);
+console.log("The even numbers from var1 to var10 are: " +var2, var4, var6, var8, var10);
