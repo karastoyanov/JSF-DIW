@@ -11,3 +11,4 @@ let num10 = 109;
 
 console.log(num10);
 console.log(num8);
+

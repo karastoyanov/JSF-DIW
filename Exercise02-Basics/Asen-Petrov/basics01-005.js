@@ -10,4 +10,4 @@ num3 = 3;
 num4 = 2;
 num5 = 1;
 
-console.log(num1, num2, num3, num4, num5)
+console.log(num1, num2, num3, num4, num5) 

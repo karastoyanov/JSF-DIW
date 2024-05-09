@@ -11,4 +11,4 @@ let num10 = 10;
 
 console.log(num1);
 console.log(num3);
-console.log(num5);
+console.log(num5); 

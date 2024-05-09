@@ -13,4 +13,4 @@ console.log(num2);
 console.log(num4);
 console.log(num6);
 console.log(num8);
-console.log(num10);
+console.log(num10); 

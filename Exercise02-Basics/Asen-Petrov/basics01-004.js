@@ -15,4 +15,3 @@ for (let index = 0; index < chars.length; index++) {
     console.log(punctCharArr[index])
     
 }
-
