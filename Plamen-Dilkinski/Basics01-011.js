@@ -11,4 +11,4 @@ let varPrime8 = 17;
 let varPrime9 = 19;
 let varPrime10 = 23;
 
-console.log("Prime numbers printed in reverse order "+varPrime10+", "+varPrime9+", "+varPrime8+", "+varPrime7+", "+varPrime6+", " +varPrime5+", "+varPrime4+", " +varPrime3+", "+varPrime2+", "+varPrime1);
+console.log("Prime numbers printed in reverse order: "+varPrime10+", "+varPrime9+", "+varPrime8+", "+varPrime7+", "+varPrime6+", " +varPrime5+", "+varPrime4+", " +varPrime3+", "+varPrime2+", "+varPrime1);

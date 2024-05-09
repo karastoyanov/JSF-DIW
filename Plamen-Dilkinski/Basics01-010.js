@@ -9,7 +9,7 @@ let varPrime3 = 5;
 let varPrime4 = 7;
 let varPrime5 = 11;
 
-// variables with first fiew prime numbers multipled by 3
+//      variables with first fiew prime numbers multipled by 3
 
 let varMultiply = 6;
 let varMultiply2 = 9;
