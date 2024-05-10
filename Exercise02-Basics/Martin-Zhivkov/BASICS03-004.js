@@ -8,4 +8,4 @@ let a = 3;
 
 let result = (a >= 0) ? 'positive' : 'negative';
 let resultComparisedWithZero = (a == 0) ? "is null" : "is not null"
-console.log ("the result is " + result + " and " + resultComparisedWithZero);
+console.log("the result is " + result + " and " + resultComparisedWithZero);
