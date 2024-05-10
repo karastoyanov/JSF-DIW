@@ -12,4 +12,4 @@ let emoji3 = "\u{1F918}";
 let emoji4 = "\u{1F605}";
 let emoji5 = "\u{1F623}";
 
-console.log (emoji1, emoji2, emoji3, emoji4, emoji5);
+console.log(emoji1, emoji2, emoji3, emoji4, emoji5);
