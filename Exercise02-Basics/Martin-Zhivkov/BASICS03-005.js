@@ -13,4 +13,4 @@ let result2 = x + z;
 let result3 = y + z;
 let comparison1 = result1 > result2 && result1 > result3;
 let comparison2 = result2 > result1 && result2 > result3;
-console.log (comparison1 ? x + " " + y : (comparison2 ?  x + " " + z : y + " " + z));
+console.log(comparison1 ? x + " " + y : (comparison2 ?  x + " " + z : y + " " + z));
