@@ -8,4 +8,4 @@ the console the result. Can you describe the result?
 let a = "A";
 let b = 4;
 let result = a > b;
-console.log (result);
+console.log(result);
