@@ -9,4 +9,4 @@ let char1 = "N";
 let char2 = "o";
 
 let result = char1 < char2;
-console.log (result);
+console.log(result);
