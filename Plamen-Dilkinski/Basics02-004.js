@@ -5,6 +5,7 @@ let emoji2 = "\u{1F590}";
 let emoji3 = "\u{1F44C}";
 let emoji4 = "\u{1F92A}";
 let emoji5 = "\u{1F44D}";
+
 console.log(emoj1);
 console.log(emoji2);
 console.log(emoji3);
