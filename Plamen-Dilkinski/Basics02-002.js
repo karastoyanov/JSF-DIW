@@ -7,4 +7,7 @@ let asc3 = 120;
 let asc4 = 121;
 let asc5 = 122;
 
-console.log(asc1,asc2,asc3,asc4,asc5);
+// console.log(asc1,asc2,asc3,asc4,asc5);
+
+// do not print the numbers
+// use fromCharCode(asc1) to print the characters
