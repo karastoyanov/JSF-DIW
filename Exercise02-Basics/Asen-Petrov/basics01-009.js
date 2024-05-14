@@ -8,4 +8,4 @@ console.log(primeNum1);
 console.log(primeNum2);
 console.log(primeNum3);
 console.log(primeNum4);
-console.log(primeNum5);
+console.log(primeNum5); 
