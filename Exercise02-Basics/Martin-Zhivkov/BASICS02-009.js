@@ -12,6 +12,7 @@ let emoji4 = '🤣'.codePointAt(0);
 let emoji5 = '🙃'.codePointAt(0);
 
 console.log(emoji1.toString(10));
+console.log(emoji1.toString(16));
 console.log(emoji2.toString(10));
 console.log(emoji3.toString(10));
 console.log(emoji4.toString(10));
