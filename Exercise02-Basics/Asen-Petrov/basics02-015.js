@@ -1,14 +1,14 @@
 let char = 'A';
-const Chiper = 4;
+const Cipher = 4;
 
 let charValue = char.charCodeAt();
 //console.log(charValue);
 
-if (charValue + Chiper > 90) {
-    let remainingValue = (charValue + Chiper) - 90;
+if (charValue + Cipher > 90) {
+    let remainingValue = (charValue + Cipher) - 90;
     let newCharValue = 64 + remainingValue;
     console.log(String.fromCharCode(newCharValue))
 }else{
-    let newCharValue = charValue + Chiper;
+    let newCharValue = charValue + Cipher;
     console.log(String.fromCharCode(newCharValue))
 }
