@@ -12,3 +12,4 @@ let n9 = 23;
 let n10 = 29;
 
 console.log("All Prime numbers in reverse order: " + n10 + ", " + n9 + ", " + n8 + ", " + n7 + ", " + n6 + ", " + n5 + ", " + n4 + ", " + n3 + ", " + n2 + ", " + n1);
+
