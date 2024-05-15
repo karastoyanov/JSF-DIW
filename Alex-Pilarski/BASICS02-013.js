@@ -7,4 +7,4 @@ let num = 3;
 console.log(char > num);
 
 // When we compare the string "A" with the number 3, "A" cannot be converted to a number (it's NaN - Not a Number). 
-// So, the result is alway fales.
+// So, the result is alway false.
