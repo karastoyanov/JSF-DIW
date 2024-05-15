@@ -1,4 +1,4 @@
-//Imagine, you are solving a math problem. Declare ten variables, which you might need in your program.
+// Imagine, you are solving a math problem. Declare ten variables, which you might need in your program.
 
 // Declare ten variables that can be useful for calculating travelling by car.
 
