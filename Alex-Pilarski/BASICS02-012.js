@@ -5,7 +5,7 @@
 let upperCase = "D";
 let lowerCase = "e";
 
-console.log(upperCase<lowerCase);
+console.log(upperCase < lowerCase);
 
 // The Unicode value of the character 'D' is less than the Unicode value of the character 'e'. 
 // This is because the Unicode value of 'D' is numerically lower than the Unicode value of 'e'.

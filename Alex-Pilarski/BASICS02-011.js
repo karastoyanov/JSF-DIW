@@ -4,4 +4,4 @@
 let letter = "A";
 let letter2 = "D";
 
-console.log(letter<letter2);
+console.log(letter < letter2);

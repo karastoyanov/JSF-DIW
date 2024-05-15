@@ -2,8 +2,8 @@
 // with the division reminder. The fourth one set with the quotient. 
 // Print on the console the four variables with appropriate description.
 
-let num1 = 10;
-let num2 = 3;
+let num1 = 15;
+let num2 = 2;
 let remainder = num1 % num2;
 let quotient = Math.floor(num1 / num2);
 
