@@ -3,4 +3,7 @@
 let char = "C";
 let num = 5;
 
-console.log(char<num);
+//// [Ivo]: the used operator is < (lower than)
+// console.log(char<num);
+
+console.log(char > num);
