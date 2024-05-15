@@ -4,16 +4,13 @@
 
 //// [Ivo]: The task is to declare, not to deine variable -> the values should not be set.
 
-//let distance = 500;       // Distance of the trip in kilometers
-let distance;             // Distance of the trip in kilometers
-
-// the same for others
-let fuelEfficiency = 15;  // Fuel efficiency in km per liter
-let fuelPrice = 2.9;      // Fuel price per liter in BGN
-let averageSpeed = 80;    // Average speed in km/h
-let fuelUsed = 0;         // Total fuel used in liters
-let totalFuelCost = 0;    // Total fuel cost for the trip
-let timeTaken = 0;        // Time taken for the trip in hours
-let stops = 2;            // Number of stops during the trip
-let stopTime = 0.5;       // Time per stop in hours
-let totalTime = 0;        // Total time for the trip including stops
+let distance;        // Distance of the trip in kilometers
+let fuelEfficiency;  // Fuel efficiency in km per liter
+let fuelPrice;       // Fuel price per liter in BGN
+let averageSpeed;    // Average speed in km/h
+let fuelUsed;        // Total fuel used in liters
+let totalFuelCost;   // Total fuel cost for the trip
+let timeTaken;       // Time taken for the trip in hours
+let stops;           // Number of stops during the trip
+let stopTime;        // Time per stop in hours
+let totalTime;       // Total time for the trip including stops

@@ -7,4 +7,3 @@ let num2 = 15;
 let num3 = 18;
 
 (num1 + num2) < (num2 + num3) ? ((num1 + num3) < (num2 + num3) ? console.log(num2, num3) : console.log(num1, num3)) : console.log(num1, num2);
-
