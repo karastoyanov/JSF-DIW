@@ -2,7 +2,12 @@
 
 // Declare ten variables that can be useful for calculating travelling by car.
 
-let distance = 500;       // Distance of the trip in kilometers
+//// [Ivo]: The task is to declare, not to deine variable -> the values should not be set.
+
+//let distance = 500;       // Distance of the trip in kilometers
+let distance;             // Distance of the trip in kilometers
+
+// the same for others
 let fuelEfficiency = 15;  // Fuel efficiency in km per liter
 let fuelPrice = 2.9;      // Fuel price per liter in BGN
 let averageSpeed = 80;    // Average speed in km/h
