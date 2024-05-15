@@ -1,4 +1,4 @@
-//Declare five variables. Assign them with the ASCII codes of the first five English capital alphabet characters. Print them on the console.
+// Declare five variables. Assign them with the ASCII codes of the first five English capital alphabet characters. Print them on the console.
 
 let char = 65;
 let char2 = 66;
