@@ -11,4 +11,4 @@ let n8 = 8;
 let n9 = 9;
 let n10 = 10
 
-console.log("The even numbers from 1 to 10 are: " + n2, n4, n6, n8, n10);
+console.log("The even numbers from 1 to 10 are: " + n2 + ", " + n4 + ", " + n6 + ", " + n8 + ", " + n10);

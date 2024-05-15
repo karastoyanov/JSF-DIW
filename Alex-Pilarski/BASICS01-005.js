@@ -6,4 +6,4 @@ let c = 15;
 let d = 25;
 let e  = 55;
 
-console.log("Numbers: " + a, b, c, d, e);
+console.log("Numbers: " + a + ", " + b + ", " + c + ", " + d + ", " + e);
