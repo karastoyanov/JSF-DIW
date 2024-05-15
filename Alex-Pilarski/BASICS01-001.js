@@ -1,6 +1,6 @@
 //Write ten correct identifiers, following the camelCase naming convention.
 
-firstName
+/*firstName
 lastName
 emailAddress 
 phoneNumber 
@@ -9,4 +9,6 @@ jobTitle
 officeLocation 
 orderNumber 
 shippingAddress 
-paymentMethod
+//paymentMethod*/
+
+console.log('bmw sucks');
