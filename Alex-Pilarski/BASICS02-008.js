@@ -7,4 +7,8 @@ let randomEmoji3 = "😆".codePointAt(0);
 let randomEmoji4 = "😄".codePointAt(0);
 let randomEmoji5 = "😁".codePointAt(0);
 
-console.log(randomEmoji.toString(8)+", "+randomEmoji2.toString(8)+", "+randomEmoji2.toString(8)+", "+randomEmoji3.toString(8)+", "+randomEmoji4.toString(8));
+console.log(randomEmoji.toString(16)); 
+console.log(randomEmoji2.toString(16));
+console.log(randomEmoji3.toString(16));
+console.log(randomEmoji4.toString(16));
+console.log(randomEmoji5.toString(16));
