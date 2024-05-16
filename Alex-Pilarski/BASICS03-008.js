@@ -1,4 +1,4 @@
-//Declare a variable. Assign one digit in the range of [1;9]. Print on the console the multiplication table with that variable.
+// Declare a variable. Assign one digit in the range of [1;9]. Print on the console the multiplication table with that variable.
 
 let num = 7; 
 
