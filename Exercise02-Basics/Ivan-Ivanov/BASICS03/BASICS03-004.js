@@ -7,3 +7,5 @@ const a = -20;
 const check = a > 0 ? 'positive' : (a < 0 ? 'negative' : 'zero');
 
 console.log(check);
+
+//Only 1 ternary operator is needed here
