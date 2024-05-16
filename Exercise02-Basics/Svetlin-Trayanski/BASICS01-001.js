@@ -1,0 +1,10 @@
+carNumber
+licensePlate
+carBrand
+gitHub
+entryFee
+concertTickets
+firstName
+lastName
+currencyEuro
+currencyLev

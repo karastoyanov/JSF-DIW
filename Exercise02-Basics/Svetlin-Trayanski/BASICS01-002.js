@@ -1,0 +1,10 @@
+x = 5
+y = 6
+h = 7
+geometricalshape = String(input[0])
+squareArea = a*a
+triangleArea = 0.5 * b * h
+rectangleArea = a * b
+p = Math.PI
+a = 2
+b = 1
