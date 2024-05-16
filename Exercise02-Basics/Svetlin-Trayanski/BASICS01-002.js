@@ -1,3 +1,5 @@
+//BASICS01-002: Imagine, you are solving a math problem. Declare ten variables, which you might need in your program.
+
 let x = 5
 let y = 6
 let h = 7
