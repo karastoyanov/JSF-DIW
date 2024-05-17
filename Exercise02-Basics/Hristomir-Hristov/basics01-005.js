@@ -7,12 +7,6 @@ let var3 = 15;
 let var4 = 20;
 let var5 = 55.55;
 
-var1 = 5;
-var2 = 10;
-var3 = 15;
-var4 = 20;
-var5 = 55.55;
-
 console.log(var1);
 console.log(var2);
 console.log(var3);
