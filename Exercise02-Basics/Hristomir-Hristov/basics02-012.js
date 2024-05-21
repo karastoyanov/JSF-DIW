@@ -13,3 +13,6 @@ letterB = "o";
 
 let result = letterA < letterB;
 console.log(result);
+
+/* The uppercase letters will be "lower" than the lowercase letters, since the uppercase letters appear bofore the lowercase ones
+on the ASCII table and therefore have a lower code number. */
