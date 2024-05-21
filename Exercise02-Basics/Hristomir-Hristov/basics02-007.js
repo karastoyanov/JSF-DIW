@@ -14,4 +14,4 @@ emoji3 = '🤘'.codePointAt(0);
 emoji4 = '🤙'.codePointAt(0);
 emoji5 = '🤌'.codePointAt(0);
 
-console.log(emoji1.toString(16) + ", " + emoji2.toString(16) + ", " + emoji3.toString(16) + ", " + emoji4.toString(16) + ", " + emoji5.toString(16));
+console.log(emoji1.toString() + ", " + emoji2.toString() + ", " + emoji3.toString() + ", " + emoji4.toString() + ", " + emoji5.toString());

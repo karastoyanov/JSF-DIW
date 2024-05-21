@@ -1,7 +1,8 @@
 /*
 
 Declare five variables. Assign them with the randomly chosen emoji
-characters. Print the UNICODE codes in hex format on the console – on different lines.
+characters. Print the UNICODE codes in decimal format on the console – on different
+lines.
 
 */
 
@@ -13,8 +14,8 @@ emoji3 = '🤘'.codePointAt(0);
 emoji4 = '🤙'.codePointAt(0);
 emoji5 = '🤌'.codePointAt(0);
 
-console.log(emoji1.toString(16));
-console.log(emoji2.toString(16));
-console.log(emoji3.toString(16));
-console.log(emoji4.toString(16));
-console.log(emoji5.toString(16));
+console.log(emoji1.toString(10));
+console.log(emoji2.toString(10));
+console.log(emoji3.toString(10));
+console.log(emoji4.toString(10));
+console.log(emoji5.toString(10));
