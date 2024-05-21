@@ -10,7 +10,7 @@ printed.
 
 */
 
-let strVar = "Primitive";
+const strVar = "Primitive";
 
 console.log(strVar.substring(0, 1));
 console.log(strVar.substring(0, 2));

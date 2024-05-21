@@ -11,7 +11,7 @@ Pad each line with space character(s), so the text is right justified.
 
 */
 
-let strVar = "Primitive";
+const strVar = "Primitive";
 
 console.log((strVar.substring(0, 1)).padStart(9, " "));
 console.log((strVar.substring(0, 2)).padStart(9, " "));
