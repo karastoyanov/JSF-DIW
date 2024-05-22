@@ -1,0 +1,11 @@
+// BASICS01-003
+let serverDiskSpace;
+let serverId;
+let serverName;
+let ipAddress;
+let serverStatus;
+let serverType;
+let serverModel;
+let serverManufacturer;
+let serverRAM;
+let serverDescription;
