@@ -4,9 +4,11 @@ numbers. Print on the console those two of them, which have the biggest sum. Hin
 the ternary operators.
 */
 
-let a = 12;
-let b = 15
-let c = 18;
+let a = -12;
+let b = -15
+let c = -18;
 
+console.log(a, b, c);
 
+console.log(a+b, b+c, c+a);
 (a+b) < (b+c) ? ((a+c) < (b+c) ? console.log(b, c) : console.log(a, c)) : console.log(a, b);
