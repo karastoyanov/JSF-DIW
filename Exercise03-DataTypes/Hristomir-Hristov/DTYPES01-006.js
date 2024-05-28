@@ -15,3 +15,5 @@ console.log(firstName.length);
 console.log(middleName.length);
 console.log(lastName.length);
 console.log(allNames.length);
+
+// length of variable different from length of string ??

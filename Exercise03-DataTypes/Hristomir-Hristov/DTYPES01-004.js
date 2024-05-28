@@ -1,8 +1,6 @@
 /*
-
 Define two multi-line string variables in three ways. (hint: use single quotes,
 double quotes, string literals).
-
 */
 
 // single quotes

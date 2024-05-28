@@ -1,10 +1,8 @@
 /*
-
 Print the numbers from the following list: 1, 10, 38, 4, 824, 120, 999, 64 in one
 column, right justified. Pad all the digits with zeros so that the column is right-justified,
 and the width is exactly eight characters. Also, replace all eights with the digit nine, and
 all nines with the digit one.
-
 */
 
 let num1 = "1";
