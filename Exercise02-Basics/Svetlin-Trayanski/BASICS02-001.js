@@ -1,14 +1,14 @@
 //BASICS02-001: Declare five variables. Assign them with the ASCII codes of the first five 
 //English capital alphabet characters. Print them on the console
 
-let A = 65;
-let B = 66;
-let C = 67;
-let D = 68;
-let E = 69;
+let code1 = 65
+let code2 = 66
+let code3 = 67
+let code4 = 68
+let code5 = 69
 
-console.log("A:", A);
-console.log("B:", B);
-console.log("C:", C);
-console.log("D:", D);
-console.log("E:", E);
+console.log(String.fromCharCode(code1))
+console.log(String.fromCharCode(code2)) 
+console.log(String.fromCharCode(code3)) 
+console.log(String.fromCharCode(code4)) 
+console.log(String.fromCharCode(code5))
