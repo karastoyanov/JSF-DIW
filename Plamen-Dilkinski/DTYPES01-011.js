@@ -9,4 +9,5 @@ let lastName = "Dilkinski";
 
 let sumVar = firstName.charCodeAt(0) + secondName.charCodeAt(0) + lastName.charCodeAt(0);
 
-console.log(sumVar);
+console.log(`The codes of the first letter from each name are: ${firstName.charCodeAt(0)}, ${secondName.charCodeAt(0)}, ${lastName.charCodeAt(0)}. The sum of all codes is: ${sumVar}`);
+//console.log(sumVar);

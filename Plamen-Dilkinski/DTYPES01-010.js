@@ -6,7 +6,7 @@
 
 let firstName = "Plamen";
 let secondName = "tsvetomirov";
-let lastName = "Dilkinski";
+let lastName = "dilkinski";
 
 let summaryVar1 = `${firstName.toUpperCase().charAt(0)}${secondName.toUpperCase().charAt(0)}${lastName.toUpperCase().charAt(0)}`;
 
