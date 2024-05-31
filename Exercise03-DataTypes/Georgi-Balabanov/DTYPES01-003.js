@@ -5,5 +5,5 @@ name as a first name. Use comma character as a separator. Print fullRevName on t
 console.*/
 let firstName ='Georgi';
 let lastName ='Balabanov';
-let fullRevName =`${lastName}.${firstName}`
+let fullRevName =`${lastName},${firstName}`
 console.log(fullRevName)
