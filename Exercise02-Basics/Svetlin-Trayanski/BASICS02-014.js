@@ -3,9 +3,9 @@
 //uppercase, print it in lowercase. Hint: Use the encoding table/codes/location in the 
 //table.
 
-let letter = `A`
-let code = letter.charCodeAt(0)
-let reverseLetter = 0
+let letter = `A`;
+let code = letter.charCodeAt(0);
+let reverseLetter = 0;
 
 if (code >= 65 && code <= 90){
     reverseLetter = String.fromCharCode(code + 32)
