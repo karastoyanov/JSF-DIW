@@ -1,8 +1,5 @@
 let letter = "s"
+let upperCase =letter <= 'Z' && letter >= 'A';
+let lowerCase = letter <= 'z' && letter >= 'a';
 
-if(letter==letter.toLocaleUpperCase()){
-    console.log(letter.toLocaleLowerCase())
-}
-else{
-    console.log(letter.toUpperCase()) 
-}
+console.log((lowerCase ? letter.toUpperCase() : '') || (upperCase ? letter.toLowerCase() : ''));
