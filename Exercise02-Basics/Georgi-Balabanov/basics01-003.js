@@ -1,0 +1,10 @@
+let serverName;
+let serverIp;
+let serverRam;
+let serverOperationSystem;
+let localServer;
+let virtualServerIp;
+let virtualServerPort;
+let azureAccountName;
+let azureAccountId;
+let cloudAdminUserList;
