@@ -7,6 +7,7 @@ Print the fourth variable on the console */
 let firstName = "Iva";
 let middleName = "Georgieva";
 let familyName = "Georgieva";
-let fullName = `${firstName.toUpperCase().charAt(0)}${firstName.toUpperCase().at(-1)} ${middleName.toUpperCase().charAt(0)}${middleName.toUpperCase().at(-1)} ${familyName.toUpperCase().charAt(0)}${familyName.toUpperCase().at(-1)}`;
+let fullName = `${firstName.charAt(0)}${middleName.charAt(0)}${familyName.charAt(0)}+${familyName.charAt(0)}${middleName.charAt(0)}${firstName.charAt(0)}`;
 
-console.log(fullName);
+console.log(fullName.toUpperCase())
+
