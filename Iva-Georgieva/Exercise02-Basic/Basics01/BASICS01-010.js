@@ -23,5 +23,5 @@
      primeNumber9 = primeNumber4 * 3;
      primeNumber10 = primeNumber5 * 5;       
 
-      console.log(primeNumber1, primeNumber2, primeNumber3, primeNumber4, primeNumber5, primeNumber6, primeNumber7, primeNumber8, primeNumber9, primeNumber10);
+     console.log(primeNumber1, primeNumber2, primeNumber3, primeNumber4, primeNumber5, primeNumber6, primeNumber7, primeNumber8, primeNumber9, primeNumber10);
 
