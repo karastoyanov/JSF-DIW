@@ -1,12 +1,7 @@
-let char = 'A';
+/* Solution using ternary operators */
 
-if (char != char.toUpperCase()) {
-    let capitalChar = char.toUpperCase();
-    console.log(capitalChar);
-}
-else{
-    let lowerChar = char.toLowerCase();
-    console.log(lowerChar);
-}
+let letter = 'A';
 
-//Did not understand the suggested hint/way of solving the problem
+let result = (letter >= 'A' && letter <= 'Z') ? letter.toLowerCase() : (letter >= 'a' && letter <= 'z') ? letter.toUpperCase() : letter;
+
+console.log(result);
