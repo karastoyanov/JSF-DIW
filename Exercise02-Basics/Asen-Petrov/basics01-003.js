@@ -1,0 +1,10 @@
+let ram;
+let coreCount;
+let operatingSystem;
+let manufacturer;
+let cloudProvider;
+let serverType;
+let serverName;
+let region;
+let serviceAccount;
+let logicalDataCenter;
