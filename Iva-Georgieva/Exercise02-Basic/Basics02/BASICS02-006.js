@@ -1,14 +1,20 @@
-// BASICS02-006: Declare five variables. Assign them with the randomly chosen emoji 
-// characters. Print the UNICODE codes on the console – on diWerent lines
+/* BASICS02-006: Declare five variables. Assign them with the randomly chosen emoji 
+characters. Print the UNICODE codes on the console – on diWerent lines */
 
-let mushroom = "\u{1F344}";
-let beer = "\u{1F37A}";
-let medal = "\u{1F3C5}";
-let mkey = "\u{1F3B9}";                        // musical keyboard 
-let fireworks = "\u{1f386}";
+let mushroom;
+let beer;
+let medal;
+let mkey;                        // musical keyboard 
+let fireworks;
 
-console.log(mushroom);
-console.log(beer);
-console.log(medal);
-console.log(mkey);
-console.log(fireworks);
+mushroom = "🍄".codePointAt(0);             
+beer = "🍺".charCodeAt(0);                  
+medal = "🏅".charCodeAt(0);                       
+mkey =  "🏅".codePointAt(0);                                            
+fireworks = "🎆".codePointAt(0);                  
+
+console.log(mushroom.toString(16));
+console.log(beer.toString(16));
+console.log(medal.toString(16));
+console.log(mkey.toString(16));
+console.log(fireworks.toString(16));

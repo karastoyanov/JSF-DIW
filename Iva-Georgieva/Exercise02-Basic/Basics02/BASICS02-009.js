@@ -1,5 +1,5 @@
-// BASICS02-009: Declare five variables. Assign them with the randomly chosen emoji 
-// characters. Print the UNICODE codes in decimal format on the console – on diWerent lines.
+/* BASICS02-009: Declare five variables. Assign them with the randomly chosen emoji 
+characters. Print the UNICODE codes in decimal format on the console – on diWerent lines. */
 
 let b1 = '🏴'.codePointAt(0);
 let b2 = '🐃'.codePointAt(0);
