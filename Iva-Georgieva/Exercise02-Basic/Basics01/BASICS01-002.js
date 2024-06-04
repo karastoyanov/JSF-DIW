@@ -1,10 +1,10 @@
 /* BASICS01-002: Imagine, you are solving a math problem. Declare ten variables, which you might need in your program.
 
      The math problem to solve:
-         We need to calculate the perimeters of a circle, rectangle and triangle and sum those perimeters.*/
+     We need to calculate the perimeters of a circle, rectangle and triangle and sum those perimeters.*/
 
 
-const pi; 
+let pi; 
 let r;                                       // radius of the circle
 let P1 = 2 * pi * r ;                        // perimeter of the circle 
 let x1;                                      // lenght of the rectangle

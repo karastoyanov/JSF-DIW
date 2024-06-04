@@ -1,9 +1,15 @@
 // BASICS01-009: Declare five variables, assign the first five prime numbers, and print them on the console.
 
-let z1 = 2;
-let z2 = 3;
-let z3 = 5;
-let z4 = 7;
-let z5 = 11;
+let primeNumber1;
+let primeNumber2;
+let primeNumber3;
+let primeNumber4;
+let primeNumber5;
 
-console.log(z1 , z2 , z3 , z4 , z5);
+primeNumber1 = 1;
+primeNumber2 = 2;
+primeNumber3 = 3;
+primeNumber4 = 5;
+primeNumber5 = 7;
+
+console.log(primeNumber1, primeNumber2, primeNumber3, primeNumber4, primeNumber5);

@@ -1,16 +1,27 @@
 /* BASICS01-010: Declare ten variables. On the first five - assign the first five prime numbers. 
      On the second five numbers, do the same, but multiply each value by 3. Print all of them on the console. */
 
-let p1 = 2;
-let p2 = 3;
-let p3 = 5;
-let p4 = 7;
-let p5 = 11;
-let p6 = p1 * 3;
-let p7 = p2 * 3;
-let p8 = p3 * 3;
-let p9 = p4 * 3;
-let p10 = p5 * 3;
+     let primeNumber1;
+     let primeNumber2;
+     let primeNumber3;
+     let primeNumber4;
+     let primeNumber5;
+     let primeNumber6;
+     let primeNumber7;
+     let primeNumber8;
+     let primeNumber9;
+     let primeNumber10;
 
-console.log(p1 , p2 , p3 , p4 , p5 , p6 , p7 , p8, p9 , p10);
+     primeNumber1 = 1;
+     primeNumber2 = 2;
+     primeNumber3 = 3;
+     primeNumber4 = 5;
+     primeNumber5 = 7;
+     primeNumber6 = primeNumber1 * 3;
+     primeNumber7 = primeNumber2 * 3;
+     primeNumber8 = primeNumber3 * 3;
+     primeNumber9 = primeNumber4 * 3;
+     primeNumber10 = primeNumber5 * 5;       
+
+      console.log(primeNumber1, primeNumber2, primeNumber3, primeNumber4, primeNumber5, primeNumber6, primeNumber7, primeNumber8, primeNumber9, primeNumber10);
 

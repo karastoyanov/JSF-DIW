@@ -1,14 +1,32 @@
 // BASICS01-011: Declare ten variables. Assign them the first ten prime numbers. Print the numbers in reverse order.
 
-let h1 = 2;
-let h2 = 3;
-let h3 = 5;
-let h4 = 7;
-let h5 = 11;
-let h6 = 13;
-let h7 = 17;
-let h8 = 19;
-let h9 = 23;
-let h10 = 29;
 
-console.log(h10 , h9 , h8 , h7 , h6 , h5 , h4 , h3 , h2 , h1);
+     let primeNumber1;
+     let primeNumber2;
+     let primeNumber3;
+     let primeNumber4;
+     let primeNumber5;
+     let primeNumber6;
+     let primeNumber7;
+     let primeNumber8;
+     let primeNumber9;
+     let primeNumber10;
+
+     primeNumber1 = 1;
+     primeNumber2 = 2;
+     primeNumber3 = 3;
+     primeNumber4 = 5;
+     primeNumber5 = 7;
+     primeNumber6 = 11;
+     primeNumber7 = 13;
+     primeNumber8 = 17;
+     primeNumber9 = 19;
+     primeNumber10 = 23;
+
+     console.log(primeNumber1, primeNumber2, primeNumber3, primeNumber4, primeNumber5, primeNumber6, primeNumber7, primeNumber8, primeNumber9, primeNumber10);
+
+
+
+
+
+

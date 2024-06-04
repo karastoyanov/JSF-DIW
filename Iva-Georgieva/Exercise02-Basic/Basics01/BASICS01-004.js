@@ -1,14 +1,26 @@
 // BASICS01-004: Print on the console five alphabet characters, five numbers, five punctuation characters.
 
-let x = "a, b, c, d, e, f";
-console.log(x);
+let alphabetChar1 = "a";
+let alphabetChar2 = "b";
+let alphabetChar3 = "c";
+let alphabetChar4 = "d";
+let alphabetChar5 = "e";
+console.log(alphabetChar1, alphabetChar2, alphabetChar3, alphabetChar4, alphabetChar5);
 
-let y = 1;
-let y1 = 2;
-let y3 = 3;
-let y4 = 4;
-let y5 = 5;
-console.log(y, y1, y3, y4, y5);
+let number1 = 1;
+let number2 = 2;
+let number3 = 3;
+let number4 = 4;
+let number5 = 5;
+console.log(number1, number2, number3, number4, number5);
 
-let z = "!  . , ;  : "
-console.log (z);
+
+let punctuationChar1 = "!";
+let punctuationChar2 = ".";
+let punctuationChar3 = ",";
+let punctuationChar4 = ";";
+let punctuationChar5 = ":";
+console.log(punctuationChar1, punctuationChar2, punctuationChar3, punctuationChar4, punctuationChar5);
+
+
+
