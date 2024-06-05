@@ -5,8 +5,14 @@ and point B is S kilometers. After how many minutes, the bus, and the car will m
 Print the result on the console.
 */
 
-const speed = 
-let AB = 80 //kmh;
-let BA = x //kmh;
-let distance = s //km;
-let x = (AB - BA)*s
+let busSpeed = 80;
+let S = 800;
+let busTime = S/busSpeed; 
+let carSpeed = 20; 
+let carTime = S/carSpeed; 
+
+let meetTime = (S/(carSpeed + busSpeed))*60;  
+
+console.log(busTime);
+console.log(carTime);
+console.log('Vehiecles will meet in aproximate: ' + (meetTime) + ' ' + 'Minutes');

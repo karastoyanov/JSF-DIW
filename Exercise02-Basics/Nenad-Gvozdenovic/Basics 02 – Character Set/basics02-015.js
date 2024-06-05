@@ -7,20 +7,10 @@ if you have Cipher=4, and the given letter is 'Y', then print on the console 'C'
 after 'Y').
 */
 
-//let char = Y;
-//const chiper = 9;
+let letter = "A";
+const CIPHER = 5;
 
-let char = 'A';
-const Cipher = 5;
+let letterIndex = (letter.charCodeAt(0) - 65 ) % 26;
 
-let charValue = char.charCodeAt();
-//console.log(charValue);
-
-if (charValue + Cipher > 90) {
-    let remainingValue = (charValue + Cipher) - 90;
-    let newCharValue = 64 + remainingValue;
-    console.log(String.fromCharCode(newCharValue))
-}else{
-    let newCharValue = charValue + Cipher;
-    console.log(String.fromCharCode(newCharValue))
-}
+let letterString = String.fromCharCode((letterIndex + 65)+CIPHER);
+console.log(letterString);

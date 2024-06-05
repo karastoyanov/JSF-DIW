@@ -5,13 +5,8 @@ uppercase, print it in lowercase. Hint: Use the encoding table/codes/location in
 table.
 */
 
-let char = "D";
-let reverseChar;
-if (char.charCodeAt(0) <= 90) {
-    reverseChar = String.fromCharCode(char.charCodeAt(0) + 32);
-}
-else {
-    reverseChar = String.fromCharCode(char.charCodeAt(0) - 32);
-}
+let letter = 'f';
 
-console.log(reverseChar);
+let reverseResult = (letter >= 'A' && letter <= 'Z') ? letter.toLowerCase() : (letter >= 'a' && letter <= 'z') ? letter.toUpperCase() : letter;
+
+console.log(reverseResult);
