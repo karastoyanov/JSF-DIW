@@ -1,4 +1,8 @@
-// BASICS01-006
+/*
+BASICS01-006
+Declare ten variables, assign the numbers from 1 to 10 and print the even numbers on the console.
+*/
+
 let num1 = 1;
 let num2 = 2;
 let num3 = 3;

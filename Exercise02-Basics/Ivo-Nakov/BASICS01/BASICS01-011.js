@@ -1,4 +1,9 @@
-// BASICS01-011
+/*
+BASICS01-011
+Declare ten variables. Assign them the first ten prime numbers.
+Print the numbers in reverse order.
+*/
+
 let prime1 = 2;
 let prime2 = 3;
 let prime3 = 5;

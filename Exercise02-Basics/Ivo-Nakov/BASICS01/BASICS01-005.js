@@ -1,4 +1,8 @@
-// BASICS01-005
+/*
+BASICS01-005
+Declare five variables, assign some numbers, and print them on the console.
+*/
+
 let num1 = 10;
 let num2 = 25;
 let num3 = 37;

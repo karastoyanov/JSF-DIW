@@ -1,4 +1,8 @@
-// BASICS01-007
+/*
+BASICS01-007
+Declare ten variables, assign the numbers from 1 to 10 and print the first three odd numbers on the console.
+*/
+
 let num1 = 1;
 let num2 = 2;
 let num3 = 3;

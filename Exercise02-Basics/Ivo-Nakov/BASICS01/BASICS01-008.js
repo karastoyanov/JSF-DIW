@@ -1,4 +1,8 @@
-// BASICS01-008
+/*
+BASICS01-008
+Declare ten variables, assign the numbers from 100 to 109 and print the last two odd numbers on the console.
+*/
+
 let num100 = 100;
 let num101 = 101;
 let num102 = 102;

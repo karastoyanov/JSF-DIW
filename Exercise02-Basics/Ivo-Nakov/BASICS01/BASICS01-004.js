@@ -1,4 +1,8 @@
-// BASICS01-004
+/*
+BASICS01-004
+Print on the console five alphabet characters, five numbers, five punctuation characters.
+*/
+
 let fiveAlphabet = 'QWERT';
 let fiveNumbers = '12345';
 let fivePunctuation = '!@#$%';

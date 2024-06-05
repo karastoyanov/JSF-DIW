@@ -1,4 +1,11 @@
-// BASICS02-007
+/*
+BASICS02-007
+Declare five variables.
+Assign them with the randomly chosen emoji characters.
+Print the UNICODE codes on the console – on one line,
+separated with commas and space after each comma character.
+*/
+
 let emojiSmile = '☺';
 let emojiHeart = '❤';
 let emojiStar = '⭐';

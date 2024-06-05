@@ -1,4 +1,9 @@
-// BASICS01-002
+/*
+BASICS01-002
+Imagine, you are solving a math problem.
+Declare ten variables, which you might need in your program.
+*/
+
 let num1;
 let num2;
 let intermediateResult1;

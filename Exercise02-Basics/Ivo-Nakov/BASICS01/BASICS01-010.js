@@ -1,4 +1,10 @@
-// BASICS01-010
+/*
+BASICS01-010
+Declare ten variables. On the first five - assign the first five prime numbers.
+On the second five numbers, do the same, but multiply each value by 3.
+Print all of them on the console.
+*/
+
 let prime1 = 2;
 let prime2 = 3;
 let prime3 = 5;

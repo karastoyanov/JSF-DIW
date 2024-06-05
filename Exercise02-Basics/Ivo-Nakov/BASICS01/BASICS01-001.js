@@ -1,4 +1,8 @@
-/* BASICS01-001 */
+/*
+BASICS01-001
+Write ten correct identifiers, following the camelCase naming convention.
+*/
+
 idenTifier
 iden_Tifier
 identifier
