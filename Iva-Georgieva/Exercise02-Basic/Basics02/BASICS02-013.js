@@ -5,7 +5,6 @@ the console the result. Can you describe the result? */
 let alphabetChar;
 let numberChar;
 
-
 alphabetChar = "F";
 numberChar = 8;
 let result = alphabetChar > numberChar;
