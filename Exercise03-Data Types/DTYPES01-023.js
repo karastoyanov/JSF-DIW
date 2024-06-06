@@ -5,7 +5,7 @@ If it is fount -> print “found at position: <position>. */
 
 let pangram = 'The quick brown fox jumps over the lazy dog';
 
-let result = pangram.search("jump");
+let result = pangram.search(/JumP/i);
 
 let msg = (result >= 0) ? `Found at position: ${result}` : `Does not exist`;
 
