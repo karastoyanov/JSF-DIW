@@ -5,6 +5,9 @@ console the length of each variable. */
 let firstName = 'Alexander';
 let middleName = 'Plamenov';
 let lastName = 'Pilarski';
-let allNames = `${firstName}    ${middleName}   ${lastName}`
+let allNames = `${firstName}    ${middleName}   ${lastName}`;
 
-console.log(allNames);
+console.log(firstName.length);
+console.log(middleName.length);
+console.log(lastName.length);
+console.log(allNames.length);
