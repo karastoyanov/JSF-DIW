@@ -16,5 +16,3 @@ create a new line within the string.`;
 
 let literalString2 = `Here is another example of a
 multi-line string using string literals.`;
-
-console.log(literalString2);
