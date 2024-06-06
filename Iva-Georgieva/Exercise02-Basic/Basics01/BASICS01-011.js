@@ -23,7 +23,7 @@ primeNumber8 = 17;
 primeNumber9 = 19;
 primeNumber10 = 23;
 
-console.log(primeNumber1, primeNumber2, primeNumber3, primeNumber4, primeNumber5, primeNumber6, primeNumber7, primeNumber8, primeNumber9, primeNumber10);
+console.log(primeNumber10, primeNumber9, primeNumber8, primeNumber7, primeNumber6, primeNumber5, primeNumber4, primeNumber3, primeNumber2, primeNumber1);
 
 
 
