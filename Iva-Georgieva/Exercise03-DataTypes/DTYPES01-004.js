@@ -4,16 +4,16 @@ double quotes, string literals). */
 let multiLine1 = 'My name is\n Iva Georgieva';
 console.log(multiLine1);
 
-let multiLine2 = 'I cannot think of\n sentence';
+let multiLine2 = 'I can\'t think of\n any sentence';
 console.log(multiLine2);
 
 let multiLine3 = "My name is \n Iva Georgieva";
 console.log(multiLine3);
 
-let multiLine4 = "I cannot think \n of sentence";
+let multiLine4 = "I can't think \n of any sentence";
 console.log(multiLine4);
 
-let multiLine5 = `I cannot think of 
+let multiLine5 = `I can't think of 
 sentence`;
 console.log(multiLine5);
 

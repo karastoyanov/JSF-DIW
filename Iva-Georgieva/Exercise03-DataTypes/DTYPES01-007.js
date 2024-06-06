@@ -6,11 +6,11 @@ on the console the length of each string. */
 let firstName = "Iva";
 let middleName = "Georgieva";
 let familyName = "Georgieva";
-let fullName = `${firstName}\-${middleName}\-${familyName}`;
+let fullName = `${firstName.charAt(1).toUpperCase()}\-${middleName}\-${familyName}`;
 
 
 
-console.log(firstName.length);
+console.log(firstName.length, firstName);
 console.log(middleName.length);
 console.log(familyName.length);
-console.log(fullName.length);
+console.log(fullName.length, fullName);

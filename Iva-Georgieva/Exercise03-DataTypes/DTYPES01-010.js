@@ -4,10 +4,10 @@ them) from each name plus the concatenation in reverse order (again capital lett
 Print the fourth variable on the console */
 
 
-let firstName = "Iva";
-let middleName = "Georgieva";
-let familyName = "Georgieva";
-let fullName = `${firstName.charAt(0)}${middleName.charAt(0)}${familyName.charAt(0)}+${familyName.charAt(0)}${middleName.charAt(0)}${firstName.charAt(0)}`;
+let firstName = "Iva".charAt(0);
+let middleName = "Georgieva".charAt(0);
+let familyName = "Georgieva".charAt(0);
+let fullName = `${firstName}${middleName}${familyName}+${familyName}${middleName}${firstName}`;
 
-console.log(fullName.toUpperCase())
+console.log(fullName);
 

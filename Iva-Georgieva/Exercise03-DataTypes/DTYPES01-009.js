@@ -3,9 +3,9 @@ The fourth variable initialize with the concatenation of the first characters fr
 name (capitalize them), separated with a dot “.” character. Print the fourth variable on 
 the console. */
 
-let firstName = "Iva";
-let middleName = "Georgieva";
-let familyName = "Georgieva";
-let fullName = `${firstName.toUpperCase().charAt(0)}\.${middleName.toUpperCase().charAt(0)}\.${familyName.toUpperCase().charAt(0)}`;
+let firstName = "iva";
+let middleName = "georgieva";
+let familyName = "georgieva";
+let fullName = `${firstName.charAt(0)}\.${middleName.charAt(0)}\.${familyName.charAt(0)}`;
 
-console.log(fullName);
+console.log(fullName.toUpperCase());
