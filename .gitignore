@@ -6,3 +6,4 @@
 
 # Ignore Obsidian configs
 /.obsidian/
+.DS_Store
