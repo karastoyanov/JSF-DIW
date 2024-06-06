@@ -3,7 +3,7 @@ The fourth variable initialize with the concatenation of the first characters fr
 name. Print the fourth variable on the console. */
 
 let firstName = 'Alexander';
-let middleName = "Plamenov";
+let middleName = 'Plamenov';
 let lastName = 'Pilarski';
 let allNames = firstName[0].concat(middleName[0], lastName[0]);
 
