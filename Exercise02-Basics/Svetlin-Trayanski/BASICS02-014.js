@@ -3,18 +3,11 @@
 //uppercase, print it in lowercase. Hint: Use the encoding table/codes/location in the 
 //table.
 
-let letter = `A`;
+let letter = 'B';
 let code = letter.charCodeAt(0);
-let reverseLetter = 0;
 
-if (code >= 65 && code <= 90){
-    reverseLetter = String.fromCharCode(code + 32)
-}
-else if (code >= 97 && code <= 122){
-    reverseLetter = String.fromCharCode(code - 32)
-}
-else {
-    console.log(`opa, please enter a letter`)
-}
+let reverseLetter = (code >= 65 && code <= 90) ? String.fromCharCode(code + 32) :
+                    (code >= 97 && code <= 122) ? String.fromCharCode(code - 32) :
+                    '';
 
-console.log(reverseLetter)
+console.log(reverseLetter);

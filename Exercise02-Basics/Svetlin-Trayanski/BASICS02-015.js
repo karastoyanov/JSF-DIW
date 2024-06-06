@@ -5,7 +5,14 @@
 //if you have Cipher=4, and the given letter is 'Y', then print on the console 'C' (the fourth
 //after 'Y'). 
 
-let letter = `A`
-const Cipher = 7
+let letter = 'Y';
+const Cipher = 4;
+let code = letter.charCodeAt(0);
 
-// to be continued
+let newCode = (code >= 65 && code <= 90) ? ((code - 65 + Cipher) % 26 + 65) :
+              (code >= 97 && code <= 122) ? ((code - 97 + Cipher) % 26 + 97) :
+              code;
+
+let newLetter = String.fromCharCode(newCode);
+
+console.log(newLetter);
