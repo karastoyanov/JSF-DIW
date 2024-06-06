@@ -12,3 +12,4 @@ lastName = 'Pilarski';
 
 let fullRevName = `${lastName}, ${firstName}`;
 
+console.log(fullRevName);
