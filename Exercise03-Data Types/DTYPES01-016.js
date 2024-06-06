@@ -12,7 +12,6 @@ let num6 = "120";
 let num7 = "999";
 let num8 = "64";
 
-
 console.log(num.padStart(3, 0));
 console.log(num2.padStart(3, 0));
 console.log(num3.padStart(3, 0));
