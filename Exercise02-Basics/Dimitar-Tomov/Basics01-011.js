@@ -11,7 +11,7 @@ let prime7 = 17;
 let prime8 = 19;
 let prime9 = 23;
 let prime10 = 29;
-console.log('prime number is reverse order');
+console.log('print prime numbers in reverse order')
 console.log(prime10);
 console.log(prime9);
 console.log(prime8);
