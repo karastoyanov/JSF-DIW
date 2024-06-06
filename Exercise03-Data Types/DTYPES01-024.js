@@ -5,7 +5,7 @@ the text, separated with a comma. */
 
 let digitOccur = "193817588";
 
-let count0 = (digitOccur.match(/0/g) || []).length;
+let count = (digitOccur.match(/0/g) || []).length;
 let count1 = (digitOccur.match(/1/g) || []).length;
 let count2 = (digitOccur.match(/2/g) || []).length;
 let count3 = (digitOccur.match(/3/g) || []).length;
@@ -16,7 +16,7 @@ let count7 = (digitOccur.match(/7/g) || []).length;
 let count8 = (digitOccur.match(/8/g) || []).length;
 let count9 = (digitOccur.match(/9/g) || []).length;
 
-console.log(`0, ${count0}`);
+console.log(`0, ${count}`);
 console.log(`1, ${count1}`);
 console.log(`2, ${count2}`);
 console.log(`3, ${count3}`);
@@ -26,3 +26,4 @@ console.log(`6, ${count6}`);
 console.log(`7, ${count7}`);
 console.log(`8, ${count8}`);
 console.log(`9, ${count9}`);
+
