@@ -1,4 +1,4 @@
-/*Make a program to add one variable of type Number and one variable of type BigInt.
+/*Make a program to add one variable of type Bigint and one variable of type Number.
 Print the type of the result and the result on the console.*/
 
 let num1 = 9;
