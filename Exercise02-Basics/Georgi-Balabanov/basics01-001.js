@@ -1,0 +1,10 @@
+firstName;
+lastName;
+homeAddress;
+homeLocation;
+companyEmail;
+companyAddress;
+companyLocation;
+toDoList;
+phoneBook;
+friendsList;

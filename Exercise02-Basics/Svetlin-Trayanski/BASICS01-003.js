@@ -1,0 +1,10 @@
+let serverNumber;
+let serverRam;
+let serverProcessor; 
+let serverSSD;
+let serverHDD;
+let serverLocation; 
+let serverPowerUsage; 
+let serverName;
+let serverProcessorUsage; 
+let serverFreeSpace; 
