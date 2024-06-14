@@ -3,6 +3,6 @@
 let num = 22;
 let isEven = num % 2 == 0;
 
-console.log(`${num} is ${isEven ? 'Even' : 'Oddd'}`);
+console.log(`${num} is ${isEven ? 'Even' : 'Odd'}`);
 
 
