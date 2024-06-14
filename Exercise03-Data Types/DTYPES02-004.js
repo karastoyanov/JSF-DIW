@@ -1,10 +1,8 @@
-/*
- Write a program in JavaScript to check if a given number is even or odd. // use a ternary operator and string template
- */
+/* Write a program in JavaScript to check if a given number is even or odd. // use a ternary operator and string template */
 
-let n = 22;
-let isEven = n % 2 == 0;
+let num = 22;
+let isEven = num % 2 == 0;
 
-console.log(`${n} is ${isEven ? 'Even' : 'Odd'}`);
+console.log(`${num} is ${isEven ? 'Even' : 'Odd'}`);
 
 
