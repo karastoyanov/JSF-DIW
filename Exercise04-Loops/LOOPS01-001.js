@@ -1,3 +1,5 @@
+//  LOOPS01-001: Write a program that determines whether a given number is positive or negative.
+
 let a = -5;
 
 if (a > 0)

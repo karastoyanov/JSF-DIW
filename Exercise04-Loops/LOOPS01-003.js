@@ -2,8 +2,8 @@
 determine which one is the greater.
 */
 
-let num1 = 13;
-let num2 = 33;
+let num1 = 133;
+let num2 = 333;
 
 if (num1 < num2)
 {
