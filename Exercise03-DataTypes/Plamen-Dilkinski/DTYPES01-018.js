@@ -7,12 +7,4 @@ On the third line – print first three characters and so on until the whole wor
 
 const textVar = 'Primitive';
 
-console.log(textVar.charAt(0));
-console.log(textVar.charAt(0) + textVar.charAt(1)); 
-console.log(textVar.charAt(0) + textVar.charAt(1) + textVar.charAt(2)); 
-console.log(textVar.charAt(0) + textVar.charAt(1) + textVar.charAt(2) + textVar.charAt(3)); 
-console.log(textVar.charAt(0) + textVar.charAt(1) + textVar.charAt(2) + textVar.charAt(3) + textVar.charAt(4)); 
-console.log(textVar.charAt(0) + textVar.charAt(1) + textVar.charAt(2) + textVar.charAt(3) + textVar.charAt(4) + textVar.charAt(5)); 
-console.log(textVar.charAt(0) + textVar.charAt(1) + textVar.charAt(2) + textVar.charAt(3) + textVar.charAt(4) + textVar.charAt(5) + textVar.charAt(6));
-console.log(textVar.charAt(0) + textVar.charAt(1) + textVar.charAt(2) + textVar.charAt(3) + textVar.charAt(4) + textVar.charAt(5) + textVar.charAt(6) + textVar.charAt(7));
-console.log(textVar.charAt(0) + textVar.charAt(1) + textVar.charAt(2) + textVar.charAt(3) + textVar.charAt(4) + textVar.charAt(5) + textVar.charAt(6) + textVar.charAt(7)+ textVar.charAt(8));
+console.log(textVar.substring(0,5));
