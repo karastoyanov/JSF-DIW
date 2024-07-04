@@ -5,11 +5,11 @@ the variable’s value.*/
 let x = 21;
 
 if (x <= 9 && x>=0){
-    console.log(`The time is 0${x}:35`)
+    console.log(`The time is 0${x}:35`);
 }
 else if (x >= 10 && x <=23){
-    console.log(`The time is ${x}:35`)
+    console.log(`The time is ${x}:35`);
 }
 else { 
-    console.log(`Wrong input`)
+    console.log(`Wrong input`);
 }

@@ -4,15 +4,15 @@ itself).*/
 let num = 5;
 let prime = true;
 
-prime = prime && (num > 1 && Number.isInteger(num))
+prime = prime && (num > 1 && Number.isInteger(num));
 
 for (let i = 2; i <= Math.sqrt(num) && prime; i++){
     prime = num % i !== 0;
 }
 if (prime = true){
-    result = `is prime`
+    result = `is prime`;
 }
 else {
-    result = `is not prime`
+    result = `is not prime`;
 }
-console.log(`${num} ${result}`)
+console.log(`${num} ${result}`);

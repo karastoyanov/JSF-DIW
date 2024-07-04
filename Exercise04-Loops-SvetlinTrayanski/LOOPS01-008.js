@@ -4,10 +4,10 @@ number n.*/
 let n = 55;
 
 if (n < 0) {
-    console.log(`${n} is negative.`)
+    console.log(`${n} is negative.`);
 }
 let result = 1;
 for (let i = 1; i <= n; i++){
     result *= i;
 }
-console.log(result)
+console.log(result);
