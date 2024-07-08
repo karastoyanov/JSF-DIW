@@ -4,4 +4,27 @@ LOOPS01-012: Write a program to print the coordinates of a table cells in the fo
 */
 
 
-// I do not understand the condition. I assume it is supposed to be a nested loops exercise but the condition and the example in the lesson escape me.
+
+let rows = 7;
+let columns = 6;
+
+for (let i = 1; i <= rows; i++) {
+    for (let j = 1; j <= columns; j++) {
+        console.log(`${i},${j}  `);
+    }
+    console.log();
+}
+
+/*
+//Alternative solution which I like better.
+
+let rows = 7;
+let columns = 6;
+
+for (let i = 1; i <= rows; i++) {
+    for (let j = 1; j <= columns; j++) {
+        process.stdout.write(`${i},${j}  `);  // Found process.stdout.write on the net while looking for console.log without new line
+    }
+    console.log();
+}
+*/
