@@ -11,10 +11,14 @@ for (let i = 0; i < myArray.length; i++) {
     sumofArray += myArray[i];
 }
 finalRes = sumofArray / myArray.length;
-let newArray = myArray;
-let modifArray = [];
+console.log(finalRes);
 
-for (let y = 0; y <=newArray.length;i++){
-    newArray[y].push(finalRes);
+let newArray = [];
+
+for(let y = 0; y<myArray.length;y++){
+
+    newArray = myArray[y] + 5;
+    console.log(newArray)
 }
-console.log(modifArray);
+
+
