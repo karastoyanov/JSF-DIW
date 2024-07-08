@@ -15,8 +15,7 @@ console.log(finalRes);
 
 let newArray = [];
 
-for(let y = 0; y<myArray.length;y++){
-
+for (let y = 0; y<myArray.length; y++){
     newArray = myArray[y] + 5;
     console.log(newArray)
 }
