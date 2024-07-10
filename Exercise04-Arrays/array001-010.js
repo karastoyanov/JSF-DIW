@@ -19,4 +19,5 @@ for (let i = 0; i < numbers.length; i++) {
     arrayMinNumbers.push(currentColumnMin);
 }
 
+//printing min number from each column (11, 22, 33)
 console.log(arrayMinNumbers);
