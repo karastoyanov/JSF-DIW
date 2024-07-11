@@ -1,0 +1,10 @@
+let firstNumber;
+let secondNumber;
+let thirdNumber;
+let subTotal;
+let total;
+let oddNumbers;
+let evenNumbers;
+let negativeNumbers;
+let positiveNumbers;
+let zero;
