@@ -1,6 +1,6 @@
 /* Write a program to print only the positive elements from one-dimensional array. */
 
-const array = [-5, 112, -223, -55, 88, 293];
+const array = [-8, 112, -250, -65, 77, 305];
 
 console.log("The positive elements in the array are:");
 for (let i = 0; i < array.length; i++) {
