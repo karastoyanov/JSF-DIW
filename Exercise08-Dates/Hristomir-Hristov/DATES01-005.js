@@ -4,19 +4,19 @@ const d1 = new Date().getDay();
 
 function getWeekday(currentDate) {
     if (currentDate == 1) {
-        console.log(`Today is Monday.`);
+        return console.log(`Today is Monday.`);
     } else if (currentDate == 2) {
-        console.log(`Today is Tuesday.`);
+        return console.log(`Today is Tuesday.`);
     } else if (currentDate == 3) {
-        console.log(`Today is Wednesday.`);
+        return console.log(`Today is Wednesday.`);
     } else if (currentDate == 4) {
-        console.log(`Today is Thursday.`);
+        return console.log(`Today is Thursday.`);
     } else if (currentDate == 5) {
-        console.log(`Today is Friday.`);
+        return console.log(`Today is Friday.`);
     } else if (currentDate == 6) {
-        console.log(`Today is Saturday.`);
+        return console.log(`Today is Saturday.`);
     } else if (currentDate == 0) {
-        console.log(`Today is Sunday.`);
+        return console.log(`Today is Sunday.`);
     }
-} 
+}
 getWeekday(d1);
