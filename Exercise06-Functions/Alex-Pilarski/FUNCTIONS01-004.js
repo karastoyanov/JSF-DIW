@@ -1,7 +1,6 @@
 /* Write a function that takes a string as an argument and returns the longest word in the string. */
 
 function findLongestWord(sentence) {
-    
     const words = sentence.split(' ');
 
     let longestWord = '';
