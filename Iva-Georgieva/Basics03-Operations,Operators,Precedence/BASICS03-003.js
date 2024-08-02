@@ -10,12 +10,12 @@ let quotient;
 inetegerNum1 = 23;
 inetegerNum2 = 11;
 divisionRemainder = inetegerNum1 % inetegerNum2;
-quotient = (inetegerNum1 / inetegerNum2) | 0;
+quotient = (inetegerNum1 - (divisionRemainder)) / inetegerNum2;
 
 
 console.log (inetegerNum1);
 console.log (inetegerNum2);
 console.log (divisionRemainder);                                 // 23 : 11 = 2 with remainder 1
-console.log (quotient);                                          // was not sure how to do it - used google for help 
+console.log (quotient);                                          // my solution for the whole part 
                 
 
