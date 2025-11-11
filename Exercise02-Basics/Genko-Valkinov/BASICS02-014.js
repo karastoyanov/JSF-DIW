@@ -3,14 +3,11 @@
 // uppercase, print it in lowercase. Hint: Use the encoding table/codes/location in the 
 // table
 
-let letter = 'x';
+let letter = 'B';
 
 let code = letter.charCodeAt(0);
 
-if (code >= 65 && code <= 90) {
-    console.log(String.fromCharCode(code + 32));
-} else if (code >= 97 && code <= 122) {
-    console.log(String.fromCharCode(code - 32));
-}
-
-
+code >= 65 && code <=90 ? console.log(String.fromCharCode(code + 32))
+    : code >= 97 && code <= 122 
+    ? console.log(String.fromCharCode(code -32))
+    : null;

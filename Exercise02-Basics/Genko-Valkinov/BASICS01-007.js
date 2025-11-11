@@ -14,52 +14,13 @@ let tenthNumber = 10;
 
 let oddNumber = 0;
 
-if (oddNumber < 3 && firstNumber % 2 !== 0) {
-    console.log(firstNumber);
-    oddNumber++;
-}
-
-if (oddNumber < 3 && secondNumber % 2 !== 0) {
-    console.log(secondNumber);
-    oddNumber++;
-}
-
-if (oddNumber < 3 && thirdNumber % 2 !== 0) {
-    console.log(thirdNumber);
-    oddNumber++;
-}
-
-if (oddNumber < 3 && fourthNumber % 2 !== 0) {
-    console.log(fourthNumber);
-    oddNumber++;
-}
-
-if (oddNumber < 3 && fifthNumber % 2 !== 0) {
-    console.log(fifthNumber);
-    oddNumber++;
-}
-
-if (oddNumber < 3 && sixthNumber % 2 !== 0) {
-    console.log(sixthNumber);
-    oddNumber++;
-}
-
-if (oddNumber < 3 && seventhNumber % 2 !== 0) {
-    console.log(seventhNumber);
-    oddNumber++;
-}
-
-if (oddNumber < 3 && eighthNumber % 2 !== 0) {
-    console.log(eighthNumber);
-    oddNumber++;
-}
-
-if (oddNumber < 3 && ninthNumber % 2 !== 0) {
-    console.log(ninthNumber);
-    oddNumber++;
-}
-
-if (oddNumber < 3 && tenthNumber % 2 !== 0) {
-    console.log(tenthNumber);
-    oddNumber++;
-}
+oddNumber < 3 && firstNumber % 2 !== 0 ? (oddNumber++, console.log(firstNumber)) : null;
+oddNumber < 3 && secondNumber % 2 !== 0 ? (oddNumber++, console.log(secondNumber)) : null;
+oddNumber < 3 && thirdNumber % 2 !== 0 ? (oddNumber++, console.log(thirdNumber)) : null;
+oddNumber < 3 && fourthNumber % 2 !== 0 ? (oddNumber++, console.log(fourthNumber)) : null;
+oddNumber < 3 && fifthNumber % 2 !== 0 ? (oddNumber++, console.log(fifthNumber)) : null;
+oddNumber < 3 && sixthNumber % 2 !== 0 ? (oddNumber++, console.log(sixthNumber)) : null;
+oddNumber < 3 && seventhNumber % 2 !== 0 ? (oddNumber++, console.log(seventhNumber)) : null;
+oddNumber < 3 && eighthNumber % 2 !== 0 ? (oddNumber++, console.log(eighthNumber)) : null;
+oddNumber < 3 && ninthNumber % 2 !== 0 ? (oddNumber++, console.log(ninthNumber)) : null;
+oddNumber < 3 && tenthNumber % 2 !== 0 ? (oddNumber++, console.log(tenthNumber)) : null;
