@@ -8,8 +8,6 @@ let lastName = 'Valkinov';
 
 let fullName = `${firstName}\t${middleName}\t${lastName}`;
 
-console.log(fullName);
-
 console.log(`First name length: ${firstName.length}`);
 console.log(`Middle name length: ${middleName.length}`);
 console.log(`Last name length: ${lastName.length}`);

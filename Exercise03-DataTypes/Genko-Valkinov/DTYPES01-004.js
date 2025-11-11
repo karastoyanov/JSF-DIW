@@ -4,7 +4,3 @@
 let multiLineVariable1 = 'My name is \nGenko Valkinov \nAnd I am in the ITOM Academy.\n'
 let multiLineVariable2 = "My name is \nGenko Valkinov \nAnd I am in the ITOM Academy.\n"
 let multiLineVariable3 = `My name is \nGenko Valkinov \nAnd I am in the ITOM Academy.\n`
-
-console.log(multiLineVariable1);
-console.log(multiLineVariable2);
-console.log(multiLineVariable3);

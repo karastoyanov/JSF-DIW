@@ -3,9 +3,7 @@
 // Previously define the name and the age values. They will not be changed during the 
 // further code.
 
-const name = 'Genko';
-const age = 29;
+let name = 'Genko';
+let age = 29;
 
 let nameAndAge = `My name's ${name}. I'm ${age} years old.`;
-
-console.log(nameAndAge);
