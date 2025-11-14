@@ -3,8 +3,8 @@ BASICS01-002: Imagine, you are solving a math problem. Declare ten variables, wh
 might need in your program.
 */
 
-const sideA = 5;
-const sideB = 10;
+const sideA = 5;      // const SIDE_A = 5;
+const sideB = 10;     // const SIDE_B = 10;
 let result;
 let countNumbers;
 let difference;
