@@ -12,5 +12,4 @@ for (const num of arr) {
 }
 
 console.log(arr);
-console.log("Max num: " + max);
-console.log("Min num: " + min);
+console.log(`Difference between max: ${max} and ${min} = ${max - min}`);
