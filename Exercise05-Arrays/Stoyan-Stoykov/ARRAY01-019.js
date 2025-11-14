@@ -10,17 +10,17 @@ const arr = [
 ];
 console.table(arr);
 
-let sum = 0;
-let sumEven = 0;
+let countTotal = 0;
+let countEven = 0;
 for (let i = 0; i < arr.length; i++) {
   for (let j = 0; j < arr[i].length; j++) {
-    sum += arr[i][j];
-    if (arr[i][j] % 2 == 0) sumEven += arr[i][j];
+    countTotal++;
+    if (arr[i][j] % 2 === 0) countEven++;
   }
 }
 
-let percentage = (sumEven / sum) * 100;
+let percentage = (countEven / countTotal) * 100;
 
-console.log(`Total Sum      = ${sum}`);
-console.log(`Total Sum Even = ${sumEven}`);
+console.log(`Total Even     = ${countEven}`);
+console.log(`Total Count    = ${countTotal}`);
 console.log(`Percentage     = ${percentage.toFixed(2)}%`);
