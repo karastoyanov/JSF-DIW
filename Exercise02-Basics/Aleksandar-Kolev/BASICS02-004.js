@@ -1,0 +1,10 @@
+let x = "\u{1F60E}";
+let y = "\u{1F624}";
+let z = "\u{1F648}";
+let q = "\u{1F64B}";
+let w = "\u{1F634}";
+console.log(x);
+console.log(y);
+console.log(z);
+console.log(q);
+console.log(w);
