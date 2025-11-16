@@ -1,0 +1,11 @@
+let a = 2;
+let b = 3;
+let c = 5;
+let d = 7;
+let e = 11;
+let alpha = a * 3;
+let beta = b * 3;
+let charlie = c * 3;
+let delta = d * 3;
+let echo = e * 3;
+console.log (a, b, c, d, e, alpha, beta, charlie, delta, echo);
