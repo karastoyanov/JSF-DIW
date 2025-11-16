@@ -5,8 +5,8 @@ BASICS01-001: Write ten correct identifiers, following the camelCase naming conv
 let userName = "plam";
 let firstName = "Plamen";
 let lastName = "Marinov";
-const birthYear = 1981;
-const phoneNumber = "+359887453153";
+const BIRTHDAY = 1981;
+const PHONENUMBER = "+359887453153";
 let productName = "Laptop";
 let pproductNumber = "123456";
 let serialNumber = "SN123456789";
