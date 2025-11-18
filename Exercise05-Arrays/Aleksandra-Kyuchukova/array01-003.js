@@ -17,5 +17,5 @@ for (let i = 1; i < arr.length; i++) {
   }
 }
 
-console.log(minEl);
-console.log(maxEl);
+let result = maxEl - minEl;
+console.log(result);
