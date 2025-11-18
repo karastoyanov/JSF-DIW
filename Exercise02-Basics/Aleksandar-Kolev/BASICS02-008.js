@@ -1,0 +1,10 @@
+let x = "😎".codePointAt(0);
+let y = "😴".codePointAt(0);
+let z = "🙈".codePointAt(0);
+let q = "😤".codePointAt(0);
+let w = "🙋".codePointAt(0);
+console.log(x.toString(16));
+console.log(y.toString(16));
+console.log(z.toString(16));
+console.log(q.toString(16));
+console.log(w.toString(16));
